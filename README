@@ -1,0 +1,3 @@
+Since the LGPLv3 is distributed as an exception to the GPLv3, it is required that both the LGPLv3 and the GPLv3 
+be distributed. Distributing both licenses confuses GitHub's license detection, so I wanted to see what
+distributing only the exception would do.
